@@ -99,7 +99,7 @@ After studying these notes, learners will be able to:
 👩‍💻 Author
 
 **Rimsha Riaz**  
-BS Information Technology (5th Semester)  
+BS Information Technology 
 University of Sargodha
 
 ---
